@@ -45,6 +45,7 @@ public class StudentDetailsPrint {
     for(int i=0;i<list.length;i++)
     {
         System.out.println(list[i].getname()+""+list[i].getAge());
-    
+        
     }
+        Student n1 = new Student(n,a);
 }
